@@ -125,3 +125,21 @@ html, body {
 .badge {
 	background-color: #000000;
 }
+
+.infoblock {
+	font-size: 120%;
+
+}
+
+.infoblock .badge {
+	font-size: 80%;
+
+}
+
+.infoblock span {
+	margin-right: 3%;
+}
+
+textarea.form-control {
+	height: 200px;
+}
